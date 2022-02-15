@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="conspire-friction" sample-rate="44100" end-is-free="0" id-counter="17430" name-counter="1" event-counter="186083" vca-counter="1">
-  <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 1:5.12.0-3ubuntu4"/>
+<Session version="3002" name="conspire-friction" sample-rate="44100" end-is-free="0" id-counter="21947" name-counter="1" event-counter="190787" vca-counter="1">
+  <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 1:5.12.0-3ubuntu4.1"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
     <Port name="MIDI Clock out" direction="output"/>
@@ -94,6 +94,7 @@
     <Region name="harp-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4064256" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="569" type="audio" first-edit="nothing" source-0="543" master-source-0="543" channels="1"/>
     <Region name="harp-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4064256" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="577" type="audio" first-edit="nothing" source-0="543" master-source-0="543" channels="1"/>
     <Region name="harp-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4169728" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="602" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
+    <Region name="harp-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="179390" length="2993568" position="538169" beat="24" sync-position="179390" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="610" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
     <Region name="guit-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3864832" position="156966" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1990" type="audio" first-edit="nothing" source-0="1951" source-1="1953" master-source-0="1951" master-source-1="1953" channels="2"/>
     <Region name="guit-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="423040" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2052" type="audio" first-edit="nothing" source-0="2012" source-1="2014" master-source-0="2012" master-source-1="2014" channels="2"/>
     <Region name="guit-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="423040" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2060" type="audio" first-edit="nothing" source-0="2012" source-1="2014" master-source-0="2012" master-source-1="2014" channels="2"/>
@@ -815,23 +816,30 @@
     <Region name="harp-3.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="269085" length="1435120" position="0" beat="0" sync-position="269085" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17001" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
     <Region name="harp-3.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1704203" length="1435120" position="3139322" beat="139.99999848828421" sync-position="1704203" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17012" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
     <Region name="harp-3.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="269085" length="1435120" position="3139322" beat="139.99999848828421" sync-position="269085" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17021" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
-    <Region name="harp-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3004780" length="403627" position="4439898" beat="198" sync-position="3161746" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17296" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
+    <Region name="harp-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3004780" length="403627" position="4439898" beat="198" sync-position="3004780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17296" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1"/>
+    <Region name="guit2.1 compound-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2780544" length="190602" position="0" beat="0" sync-position="2780544" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="20429" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
+    <Region name="guit2.1 compound-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2847815" length="112119" position="448475" beat="20" sync-position="2780544" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="20683" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
+    <Region name="guit2.1 compound-2.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2903874" length="56060" position="526958" beat="23.5" sync-position="2847815" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="20966" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
+    <Region name="guit2.1 compound-2.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2814180" length="145754" position="683924" beat="30.5" sync-position="2780544" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21226" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
+    <Region name="guit2.1 compound-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2814180" length="145754" position="448475" beat="20" sync-position="2814180" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21327" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
+    <Region name="guit2.1 compound-2.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2814180" length="145754" position="639076" beat="28.5" sync-position="2814180" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21428" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
+    <Region name="guit2.1 compound-2.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="0" beat="0" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21637" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2"/>
   </Regions>
   <CompoundAssociations>
     <CompoundAssociation copy="2696" original="2629"/>
     <CompoundAssociation copy="2705" original="2638"/>
-    <CompoundAssociation copy="2854" original="2797"/>
-    <CompoundAssociation copy="2863" original="2726"/>
-    <CompoundAssociation copy="9307" original="9053"/>
-    <CompoundAssociation copy="9316" original="9089"/>
     <CompoundAssociation copy="13489" original="9053"/>
     <CompoundAssociation copy="13498" original="9089"/>
     <CompoundAssociation copy="13536" original="2673"/>
     <CompoundAssociation copy="13545" original="12226"/>
+    <CompoundAssociation copy="2854" original="2797"/>
+    <CompoundAssociation copy="2863" original="2726"/>
+    <CompoundAssociation copy="9307" original="9053"/>
+    <CompoundAssociation copy="9316" original="9089"/>
   </CompoundAssociations>
   <Selection/>
   <Locations>
-    <Location id="304" name="session" start="0" end="5022915" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+    <Location id="304" name="session" start="168178" end="5022915" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="1945" name="Loop" start="1704203" end="4843525" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
@@ -1331,8 +1339,8 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="1894" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="1894" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="1896" flags="Toggle" value="0" phase-invert="00"/>
       <Automation>
         <AutomationList automation-id="solo" id="1891" interpolation-style="Discrete" state="Off"/>
@@ -2693,38 +2701,69 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Region name="bass-1.52" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="89703" position="4753831" beat="212" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="51" start-beats="0" length-beats="4.0003386243386672" id="16935" type="midi" first-edit="nothing" source-0="299" master-source-0="299"/>
     </Playlist>
     <Playlist id="558" name="harp.2" type="audio" orig-track-id="453" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="harp-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="179390" length="2993568" position="179390" beat="8.0000075585789876" sync-position="179390" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="610" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
+      <Region name="harp-3.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="179390" length="448475" position="538169" beat="24" sync-position="179390" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="21800" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="611" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="21801" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="612" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="21802" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="613" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="21803" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="614" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="21804" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="harp-3.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="179390" length="1558450" position="1614508" beat="72" sync-position="179390" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17287" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
+      <Region name="harp-3.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="627865" length="2545093" position="1166034" beat="52" sync-position="627865" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="21809" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21810" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21811" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21812" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21813" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="harp-3.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="179390" length="1558450" position="2152677" beat="95.999956916099762" sync-position="179390" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17287" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="17288" interpolation-style="Curved" state="Off">
@@ -2755,7 +2794,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="harp-3.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3019177" length="97722" position="4462322" beat="199" sync-position="3004780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17370" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
+      <Region name="harp-3.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3019177" length="97722" position="5000491" beat="222.99997656840512" sync-position="3019177" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17370" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="17371" interpolation-style="Curved" state="Off">
@@ -2786,7 +2825,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="harp-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3116899" length="291508" position="4552017" beat="203" sync-position="3116899" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17379" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
+      <Region name="harp-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3116899" length="291508" position="5090186" beat="226.99998034769465" sync-position="3116899" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.7782794237136841" id="17379" type="audio" first-edit="nothing" source-0="591" master-source-0="591" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="17380" interpolation-style="Curved" state="Off">
@@ -2819,7 +2858,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       </Region>
     </Playlist>
     <Playlist id="1926" name="guit.1" type="audio" orig-track-id="1884" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="guit-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="448475" length="1524814" position="3049627" beat="136" sync-position="358780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.0112614631652832" id="2156" type="audio" first-edit="nothing" source-0="2122" source-1="2124" master-source-0="2122" master-source-1="2124" channels="2">
+      <Region name="guit-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="448475" length="1524814" position="3587796" beat="159.99997278911565" sync-position="448475" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.0112614631652832" id="2156" type="audio" first-edit="nothing" source-0="2122" source-1="2124" master-source-0="2122" master-source-1="2124" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="2157" interpolation-style="Curved" state="Off">
@@ -2850,7 +2889,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1323001" length="2541831" position="5101398" beat="227.5" sync-position="1323001" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1998" type="audio" first-edit="nothing" source-0="1951" source-1="1953" master-source-0="1951" master-source-1="1953" channels="2">
+      <Region name="guit-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1323001" length="2541831" position="5639567" beat="251.49996447467871" sync-position="1323001" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1998" type="audio" first-edit="nothing" source-0="1951" source-1="1953" master-source-0="1951" master-source-1="1953" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="1999" interpolation-style="Curved" state="Off">
@@ -2883,38 +2922,286 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       </Region>
     </Playlist>
     <Playlist id="2448" name="guit2.1" type="audio" orig-track-id="2406" shared-with-ids="" frozen="0" combine-ops="5">
-      <Region name="guit2-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1513603" length="134542" position="0" beat="0" sync-position="1513603" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4172" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2.1 compound-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2780544" length="179390" position="347568" beat="15.5" sync-position="2780544" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="20440" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="4173" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="20441" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="4174" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="20442" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="4175" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="20443" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="4176" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="20444" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1513603" length="145755" position="0" beat="0" sync-position="1513603" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3661" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2.1 compound-2.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="470898" beat="21" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21648" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21649" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21650" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21651" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21652" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="493322" beat="22" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21670" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21671" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21672" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21673" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21674" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="515746" beat="23" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21704" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21705" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21706" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21707" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21708" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="538169" beat="24" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21720" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21721" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21722" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21723" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21724" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="560593" beat="25" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21736" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21737" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21738" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21739" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21740" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="583017" beat="26" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21752" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21753" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21754" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21755" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21756" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="605441" beat="27" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21768" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21769" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21770" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21771" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21772" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2881451" length="78483" position="627864" beat="28" sync-position="2881451" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="21784" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="21785" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="21786" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="21787" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="21788" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1513603" length="145755" position="1513601" beat="67.499969009826145" sync-position="1513603" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3661" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3662" interpolation-style="Curved" state="Off">
@@ -2945,7 +3232,38 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2.1 compound-5.1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="134731" position="1500001" beat="66.893468631897207" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.89125090837478638" id="13566" type="audio" first-edit="nothing" source-0="13554" source-1="13556" master-source-0="13554" master-source-1="13556" channels="2">
+      <Region name="guit2-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1513603" length="134542" position="1513601" beat="67.499969009826145" sync-position="1513603" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4172" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="4173" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="4174" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="4175" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="4176" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="guit2.1 compound-5.1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="134731" position="2038170" beat="90.893446712018132" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.89125090837478638" id="13566" type="audio" first-edit="nothing" source-0="13554" source-1="13556" master-source-0="13554" master-source-1="13556" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="13567" interpolation-style="Curved" state="Off">
@@ -2976,7 +3294,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2.1 compound-4.1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="136438" position="2217543" beat="98.892696145124731" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.89125090837478638" id="13519" type="audio" first-edit="nothing" source-0="13507" source-1="13509" master-source-0="13507" master-source-1="13509" channels="2">
+      <Region name="guit2.1 compound-4.1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="136438" position="2755712" beat="122.89267422524566" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.89125090837478638" id="13519" type="audio" first-edit="nothing" source-0="13507" source-1="13509" master-source-0="13507" master-source-1="13509" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="13520" interpolation-style="Curved" state="Off">
@@ -3007,7 +3325,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522339" length="129134" position="2576253" beat="114.88958956916102" sync-position="1522339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3401" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522339" length="129134" position="3114422" beat="138.88956764928193" sync-position="1522339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3401" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3402" interpolation-style="Curved" state="Off">
@@ -3038,7 +3356,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.56" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1652067" length="7290" position="2705128" beat="120.63684958427815" sync-position="1652067" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="12412" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.56" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1652067" length="7290" position="3243297" beat="144.63682766439908" sync-position="1652067" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="12412" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="12413" interpolation-style="Curved" state="Off">
@@ -3069,7 +3387,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125884" position="2934955" beat="130.88612622826909" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3122" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125884" position="3473124" beat="154.88610430839" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3122" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3123" interpolation-style="Curved" state="Off">
@@ -3100,7 +3418,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522183" length="125963" position="3293656" beat="146.88261829176113" sync-position="1522183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3737" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522183" length="125963" position="3831825" beat="170.88259637188207" sync-position="1522183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3737" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3738" interpolation-style="Curved" state="Off">
@@ -3131,7 +3449,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125884" position="3652514" beat="162.886111866969" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3978" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125884" position="4190683" beat="186.88608994708994" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3978" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3979" interpolation-style="Curved" state="Off">
@@ -3162,7 +3480,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522339" length="125806" position="3843194" beat="171.38960393046108" sync-position="1522339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4127" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522339" length="125806" position="4381363" beat="195.38958201058199" sync-position="1522339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4127" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="4128" interpolation-style="Curved" state="Off">
@@ -3193,7 +3511,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125885" position="4033717" beat="179.88609448223733" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3698" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125885" position="4571886" beat="203.88607256235829" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="3698" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3699" interpolation-style="Curved" state="Off">
@@ -3224,7 +3542,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522339" length="125806" position="4224397" beat="188.3895865457294" sync-position="1522339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4213" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522339" length="125806" position="4762566" beat="212.38956462585037" sync-position="1522339" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4213" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="4214" interpolation-style="Curved" state="Off">
@@ -3255,7 +3573,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2-1.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125884" position="4414921" beat="196.88612169312168" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4710" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
+      <Region name="guit2-1.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1522261" length="125884" position="4953090" beat="220.88609977324265" sync-position="1522261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.5531580448150635" id="4710" type="audio" first-edit="nothing" source-0="2469" source-1="2471" master-source-0="2469" master-source-1="2471" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="4711" interpolation-style="Curved" state="Off">
@@ -3286,7 +3604,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit2.1 compound-2.1 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1143611" length="2861219" position="5090186" beat="227" sync-position="1143611" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2884" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
+      <Region name="guit2.1 compound-2.1 (2)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1143611" length="2861219" position="5628355" beat="250.99995842781556" sync-position="1143611" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2884" type="audio" first-edit="nothing" source-0="2872" source-1="2874" master-source-0="2872" master-source-1="2874" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="2885" interpolation-style="Curved" state="Off">
@@ -3319,7 +3637,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       </Region>
     </Playlist>
     <Playlist id="4948" name="guit3.1" type="audio" orig-track-id="4906" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="guit3-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="257873" length="1087551" position="3307500" beat="147.5" sync-position="257873" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="5474" type="audio" first-edit="nothing" source-0="5039" master-source-0="5039" channels="1">
+      <Region name="guit3-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="257873" length="1087551" position="3666279" beat="163.49997052154194" sync-position="257873" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="5474" type="audio" first-edit="nothing" source-0="5039" master-source-0="5039" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="5475" interpolation-style="Curved" state="Off">
@@ -3350,7 +3668,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guit3-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1345424" length="313932" position="4395051" beat="196" sync-position="1345424" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5848932266235352" id="5483" type="audio" first-edit="nothing" source-0="5039" master-source-0="5039" channels="1">
+      <Region name="guit3-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1345424" length="313932" position="4753830" beat="211.99997732426303" sync-position="1345424" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5848932266235352" id="5483" type="audio" first-edit="nothing" source-0="5039" master-source-0="5039" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="5484" interpolation-style="Curved" state="Off">
@@ -4304,7 +4622,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Automation>
         <AutomationList automation-id="gain" id="49" interpolation-style="Linear" state="Off"/>
       </Automation>
-      <Controllable name="gaincontrol" id="50" flags="GainLike" value="1"/>
+      <Controllable name="gaincontrol" id="50" flags="GainLike" value="0.9548993706703186"/>
     </Processor>
   </Click>
   <LTC-In>
@@ -4391,10 +4709,10 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="679" y-size="509"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="668" y-size="509"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="37" y-off="55" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="0" x-off="827" y-off="0" x-size="582" y-size="438"/>
+      <Window name="audio-midi-setup" visible="0" x-off="623" y-off="311" x-size="582" y-size="438"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="839" y-off="381" x-size="341" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -4421,10 +4739,12 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Window name="PM-87-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-223-290" visible="0" x-off="1161" y-off="30" x-size="20" y-size="20" custom-ui="1"/>
       <Window name="P-223-253" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-223-17139" visible="0" x-off="689" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="P-223-255" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-223-256" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-290-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-253-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-17139-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-255-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-256-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-453-484" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -4438,12 +4758,14 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Window name="P-1884-1915" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-1884-1914" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-1884-2176" visible="0" x-off="0" y-off="55" x-size="866" y-size="374" custom-ui="1"/>
+      <Window name="P-1884-17056" visible="0" x-off="689" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="P-1884-5324" visible="0" x-off="0" y-off="29" x-size="943" y-size="427" custom-ui="1"/>
       <Window name="P-1884-1916" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-1884-1917" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-1915-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1914-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2176-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-17056-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-5324-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1916-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1917-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -4453,6 +4775,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Window name="P-2406-3523" visible="0" x-off="0" y-off="55" x-size="866" y-size="374" custom-ui="1"/>
       <Window name="P-2406-8104" visible="0" x-off="0" y-off="25" x-size="970" y-size="424" custom-ui="1"/>
       <Window name="P-2406-8034" visible="0" x-off="0" y-off="0" x-size="756" y-size="780" custom-ui="1"/>
+      <Window name="P-2406-16682" visible="0" x-off="689" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="P-2406-5297" visible="0" x-off="0" y-off="29" x-size="943" y-size="427" custom-ui="1"/>
       <Window name="P-2406-2438" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2406-2439" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -4462,6 +4785,7 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Window name="PM-3523-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-8104-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-8034-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-16682-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-5297-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2438-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2439-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -4481,12 +4805,6 @@ Using yoshimi simple bass in the will godfrey companion bank</Comment>
       <Window name="PM-5270-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4938-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4939-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-2406-16682" visible="0" x-off="689" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
-      <Window name="PM-16682-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-1884-17056" visible="0" x-off="689" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
-      <Window name="PM-17056-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-223-17139" visible="0" x-off="689" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
-      <Window name="PM-17139-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="97" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
